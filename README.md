@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Dhrubo064/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/Dhrubo064/LeetCode-Solutions/tree/master/0202-happy-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Dhrubo064/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/Dhrubo064/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dhrubo064/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/Dhrubo064/LeetCode-Solutions/tree/master/0202-happy-number) |
 ## Stack
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Dhrubo064/LeetCode-Solutions/tree/master/0007-reverse-integer) |
+| [0202-happy-number](https://github.com/Dhrubo064/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Dhrubo064/LeetCode-Solutions/tree/master/0258-add-digits) |
 ## Simulation
 |  |
