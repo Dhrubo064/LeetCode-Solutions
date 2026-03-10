@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Dhrubo064/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/Dhrubo064/LeetCode-Solutions/tree/master/0202-happy-number) |
+| [0264-ugly-number-ii](https://github.com/Dhrubo064/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Dhrubo064/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Dhrubo064/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhrubo064/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0264-ugly-number-ii](https://github.com/Dhrubo064/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Dhrubo064/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Dhrubo064/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Dhrubo064/LeetCode-Solutions/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/Dhrubo064/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -86,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Dhrubo064/LeetCode-Solutions/tree/master/0258-add-digits) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/Dhrubo064/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 <!---LeetCode Topics End-->
