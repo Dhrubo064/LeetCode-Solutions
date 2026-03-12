@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Dhrubo064/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Dhrubo064/LeetCode-Solutions/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/Dhrubo064/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
+| [0326-power-of-three](https://github.com/Dhrubo064/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [1323-maximum-69-number](https://github.com/Dhrubo064/LeetCode-Solutions/tree/master/1323-maximum-69-number) |
 ## Simulation
 |  |
@@ -111,4 +112,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Dhrubo064/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Dhrubo064/LeetCode-Solutions/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
