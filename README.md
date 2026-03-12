@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Dhrubo064/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhrubo064/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dhrubo064/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0204-count-primes](https://github.com/Dhrubo064/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/Dhrubo064/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 ## Hash Table
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Dhrubo064/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0202-happy-number](https://github.com/Dhrubo064/LeetCode-Solutions/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/Dhrubo064/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Dhrubo064/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Dhrubo064/LeetCode-Solutions/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/Dhrubo064/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
@@ -90,9 +92,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Dhrubo064/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Dhrubo064/LeetCode-Solutions/tree/master/0258-add-digits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Dhrubo064/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Dhrubo064/LeetCode-Solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
