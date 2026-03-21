@@ -20,12 +20,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Dhrubo064/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/Dhrubo064/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/Dhrubo064/LeetCode-Solutions/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/Dhrubo064/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Dhrubo064/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/Dhrubo064/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0264-ugly-number-ii](https://github.com/Dhrubo064/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/Dhrubo064/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Dhrubo064/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Dhrubo064/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/Dhrubo064/LeetCode-Solutions/tree/master/0056-merge-intervals) |
+| [0268-missing-number](https://github.com/Dhrubo064/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -68,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dhrubo064/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Dhrubo064/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Greedy
 |  |
 | ------- |
@@ -89,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Dhrubo064/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Dhrubo064/LeetCode-Solutions/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/Dhrubo064/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/Dhrubo064/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Dhrubo064/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Dhrubo064/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [1323-maximum-69-number](https://github.com/Dhrubo064/LeetCode-Solutions/tree/master/1323-maximum-69-number) |
@@ -115,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Dhrubo064/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Dhrubo064/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Dhrubo064/LeetCode-Solutions/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/Dhrubo064/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Dhrubo064/LeetCode-Solutions/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
