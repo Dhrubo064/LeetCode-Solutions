@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Dhrubo064/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0445-add-two-numbers-ii](https://github.com/Dhrubo064/LeetCode-Solutions/tree/master/0445-add-two-numbers-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Dhrubo064/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Dhrubo064/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Dhrubo064/LeetCode-Solutions/tree/master/0342-power-of-four) |
+| [0445-add-two-numbers-ii](https://github.com/Dhrubo064/LeetCode-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [1323-maximum-69-number](https://github.com/Dhrubo064/LeetCode-Solutions/tree/master/1323-maximum-69-number) |
 ## Simulation
 |  |
@@ -133,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/Dhrubo064/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Dhrubo064/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
+## Linked List
+|  |
+| ------- |
+| [0445-add-two-numbers-ii](https://github.com/Dhrubo064/LeetCode-Solutions/tree/master/0445-add-two-numbers-ii) |
 <!---LeetCode Topics End-->
