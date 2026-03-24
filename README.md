@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Dhrubo064/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Dhrubo064/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Dhrubo064/LeetCode-Solutions/tree/master/0342-power-of-four) |
+| [0415-add-strings](https://github.com/Dhrubo064/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/Dhrubo064/LeetCode-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [1323-maximum-69-number](https://github.com/Dhrubo064/LeetCode-Solutions/tree/master/1323-maximum-69-number) |
 ## Simulation
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Dhrubo064/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/Dhrubo064/LeetCode-Solutions/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/Dhrubo064/LeetCode-Solutions/tree/master/0415-add-strings) |
 ## Number Theory
 |  |
 | ------- |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Dhrubo064/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0168-excel-sheet-column-title](https://github.com/Dhrubo064/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Dhrubo064/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
+| [0415-add-strings](https://github.com/Dhrubo064/LeetCode-Solutions/tree/master/0415-add-strings) |
 ## Linked List
 |  |
 | ------- |
